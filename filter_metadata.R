@@ -15,7 +15,7 @@ output_file   <- file.path(local_dir, "HA1101_Filtered_Metadata.csv")
 
 # Name of the column in the CSV that holds the image filename.
 # Adjust if your CSV uses a different column name (e.g. "Name", "Image", ...).
-filename_col  <- "Name"
+filename_col  <- "NAME"
 
 # ── Read metadata CSV ─────────────────────────────────────────────────────────
 
